@@ -1,12 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MAHADI ABUHURAIRA
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MAHADI ABUHURAIRA
 
-=========================================================================================================================================
-
-Backend Developer
+### Backend Developer
 
 -----------------
 
 I always enjoy solving challenges and this is what led me into the programming, 3 years and counting was able to learn many languages (Java, Python, JavaScript, Haskell, C etc) and frameworks (Express, React, Fastapi, Django etc) but now focusing on backend tools (MERN).
+
+-----------------
 
 * 🌍  I'm based in Zaria Kaduna State, Nigeria
 
