@@ -20,7 +20,8 @@ I always enjoy solving challenges and this is what led me into the programming, 
 
 * ⚡  I enjoy watching movies and into Calisthenics
 
-<a href="https://www.github.com/mamt4real" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/mamt4real" target="_blank" rel="noreferrer">
+  <img
 
 src="https://img.shields.io/github/followers/mamt4real?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a>
 
